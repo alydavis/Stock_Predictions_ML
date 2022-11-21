@@ -1,4 +1,4 @@
-# Final_Project
+# Stock Predictions with Machine Learning
 
 ## Overview
 
